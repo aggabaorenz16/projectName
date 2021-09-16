@@ -212,6 +212,7 @@ strong {
     }
     .items .box {
         width: 200px;
+        padding: 2rem;
     }
     .footer {
         display: grid;
